@@ -12,14 +12,9 @@ public class Email_Client {
 
         Host host = Host.getInstance();
         //----------------------------------------
-            //NEED TO CHANGE
-        host.setName("Jubeerathan T.");
-        host.setUsername("thorinjava@gmail.com");
-        host.setPassword("fwmablqolmelttuh");
-        //----------------------------------------
-//        host.setName("Jubeerathan T."); // Enter your name with initials here.
-//        host.setUsername("sb@gmail.com"); // Enter your username of the mail id here.
-//        host.setPassword("password"); // Enter your password of the mail id here.
+       host.setName("Jubeerathan T."); // Enter your name with initials here.
+       host.setUsername("sb@gmail.com"); // Enter your username of the mail id here.
+       host.setPassword("password"); // Enter your password of the mail id here.
         //-------------------------------------
         ArrayList<IWishable> wishList = new ArrayList<>(); // Array which keeps the track of birthday wishable recipients
         ArrayList<Email> sentEmails = new ArrayList<>();// Array which keeps the track of sent emails
