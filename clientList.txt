@@ -1,0 +1,7 @@
+Official: nimal,nimal@gmail.com,ceo
+Personal: sunila,<nick-name>,sunil@gmail.com,2001/12/12
+Personal: Jubeearathan,Jubee,jubeerathant.20@uom.lk,2000/09/22
+Official: nimala,nimaala@gmail.com,hr
+Office_friend: kamal,kamal@gmail.com,clerk,2000/12/12
+Official: nimal,nimal@gmail.com,ceo
+Office_friend: Jubeearathan,Jubee,jubeerathant.20@uom.lk,2000/09/22
