@@ -1,7 +1,7 @@
 # EmailClient
 
 # Command-Line Email Client
-This is a command-line based email client developed as a programming assignment for a Computer Science course. The email client has several features, including sending birthday greetings and emails to different types of recipients.
+This is a command-line based email client developed as a programming assignment for a module Program Construction. The email client has several features, including sending birthday greetings and emails to different types of recipients.
 
 ## Features
 
